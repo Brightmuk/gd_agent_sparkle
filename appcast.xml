@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>GuardlyData</title>
+        <item>
+            <title>0.12.0</title>
+            <pubDate>Tue, 17 Mar 2026 08:54:31 +0300</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="GuardlyData-v0.12.0.dmg" length="715634553" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
