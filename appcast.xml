@@ -8,7 +8,7 @@
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="GuardlyData-v0.12.0.dmg" length="715634553" type="application/octet-stream"/>
+            <enclosure url="https://github.com/Brightmuk/gd_agent_sparkle/releases/download/prod/GuardlyData-v0.12.0.dmg" length="715634553" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
